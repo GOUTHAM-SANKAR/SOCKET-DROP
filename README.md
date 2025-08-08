@@ -77,8 +77,7 @@ For Software:
 *File transfer in progress with real-time status*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*WebRTC peer-to-peer communication flow with WebSocket fallback*
+[url=https://ibb.co/Kcx6hxbv][img]https://i.ibb.co/fVdMFdqw/Untitled-diagram-Mermaid-Chart-2025-08-08-235124.png[/img][/url]
 
 ### Project Demo
 # Video
