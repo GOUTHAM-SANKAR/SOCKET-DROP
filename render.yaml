@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: socketdrop
+    env: node
+    plan: free  # Change to 'starter' for production (always-on, $7/month)
+    buildCommand: npm ci
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: RATE_LIMIT
+        value: 5  # Enable rate limiting (5 requests per 5 minutes)
+      - key: DEBUG_MODE
+        value: false
+      - key: WS_FALLBACK
+        value: false  # Keep false for better performance
+    healthCheckPath: /
+    autoDeploy: true
+    # Uncomment below for custom domain
+    # domains:
+    #   - socketdrop.yourdomain.com
