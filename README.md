@@ -64,17 +64,15 @@ npm run start:prod
 Open your browser and navigate to `http://localhost:3000` to witness this technological marvel! or use our hosted link `https://socket-drop-bay.vercel.app/`
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Main interface showing device discovery and file sharing options*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Device pairing dialog with QR code generation*
+# Screenshots 
+[![Screenshot 1](https://i.ibb.co/ZpbnR8DG/Screenshot-2025-08-09-052813.png)](https://ibb.co/rRXCK6rF)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*File transfer in progress with real-time status*
+[![Screenshot 2](https://i.ibb.co/TxjtMcpq/image.png)](https://ibb.co/bMwX51qR)
+
+[![Screenshot 3](https://i.ibb.co/MkMqzdjh/image.png)](https://ibb.co/m56QnpYB)
+
 
 # Diagrams
 ![Diagram](https://i.ibb.co/fVdMFdqw/Untitled-diagram-Mermaid-Chart-2025-08-08-235124.png)
@@ -85,7 +83,7 @@ For Software:
 *Demonstration of cross-device file sharing, device pairing, and the various theme options that definitely make this project worthwhile*
 
 # Additional Demos
-- Live deployment: 'https://socket-drop-bay.vercel.app/'
+- Live deployment: `https://socket-drop-bay.vercel.app/`,`https://socket-drop.onrender.com/`
 - Test the QR code pairing feature
 - Try different themes (because priorities)
 
