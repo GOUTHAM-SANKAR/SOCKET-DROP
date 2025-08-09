@@ -79,7 +79,8 @@ Open your browser and navigate to `http://localhost:3000` to witness this techno
 
 ### Project Demo
 # Video
-[![Watch the video](https://i.imgur.com/your-thumbnail.jpg)](https://streamable.com/5dkgii)
+[View my files on Jumpshare](https://jumpshare.com/folder/F2KsvI3x1olE7dfMtxL5)
+
 
 *Demonstration of cross-device file sharing, device pairing, and the various theme options that definitely make this project worthwhile*
 
