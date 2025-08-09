@@ -83,7 +83,7 @@ Open your browser and navigate to `http://localhost:3000` to witness this techno
 *Demonstration of cross-device file sharing, device pairing, and the various theme options that definitely make this project worthwhile*
 
 # Additional Demos
-- Live deployment: `https://socket-drop-bay.vercel.app/`,`https://socket-drop.onrender.com/`
+- Live deployment: https://socket-drop-bay.vercel.app/,https://socket-drop.onrender.com/
 - Test the QR code pairing feature
 - Try different themes (because priorities)
 
